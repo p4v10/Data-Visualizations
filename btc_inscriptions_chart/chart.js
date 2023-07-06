@@ -1,3 +1,4 @@
+// data pulled from Dune Analytics using this query - https://github.com/p4v10/Blockchain-Analytics/blob/main/Dune-Analytics/btc_inscriptions_dune.sql
 var chart = Highcharts.chart('container', {
     chart: {
         type: 'column',
